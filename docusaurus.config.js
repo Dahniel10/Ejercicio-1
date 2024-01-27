@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'https://1000marcas.net/wp-content/uploads/2019/12/Audi-logo.png',
+      image: 'https://i.pinimg.com/736x/01/39/94/01399426fc931987f6558e57da0034dd.jpg',
       navbar: {
         title: '',
         logo: {
