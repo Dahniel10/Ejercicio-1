@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   organizationName: 'Dahniel10',
-  projectName: 'NewLogo',
+  projectName: 'Ejercicio-1',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
