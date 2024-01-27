@@ -32,7 +32,7 @@ const config = {
     defaultLocale: 'es',
     locales: ['es'],
   },
-
+  
   presets: [
     [
       'classic',
@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'https://1000marcas.net/wp-content/uploads/2019/12/Audi-logo.png',
       navbar: {
         title: '',
         logo: {
